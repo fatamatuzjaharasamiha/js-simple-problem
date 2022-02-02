@@ -20,4 +20,4 @@ console.log('Small element is', young1);
 
 let array2 = [10, 20, 30, 70];
 let young2 = getSmallElement(array2);
-console.log('Small element is', young);
+console.log('Small element is', young2);
