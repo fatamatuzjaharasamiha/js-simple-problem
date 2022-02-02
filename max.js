@@ -30,6 +30,7 @@ var max = Math.max(business, minister, army);
 console.log('largest is', max);
 
 // function diye large ta ber kora 3 tar moddhe
+// task 1:---Create a function that takes three numbers as input parameter and returns you the largest number of the three./
 
 function getLarge(num1, num2, num3) {
     if (num1 > num2 && num1 > num3) {
